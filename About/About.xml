@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ModMetaData>
-  <name>Misc Patches</name>
+  <name>Vanilla Column Retexture</name>
   <author>thakyZ</author>
-  <packageId>NekoBoiNick.Vanilla.PillarRetexure</packageId>
-  <description>Vanilla pillar retexture for RimWorld.</description>
+  <packageId>NekoBoiNick.Vanilla.ColumnRetexure</packageId>
+  <description>Changes the texture for the vanilla column in RimWorld so that it better fits the style of the Utility Columns mod by NEPH.</description>
   <supportedVersions>
     <li>1.1</li>
   </supportedVersions>
