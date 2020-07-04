@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Manifest>
+  <identifier>NekoBoiNick.Vanilla.PillarRetexure</identifier>
+  <version>1.0.0</version>
+  <dependencies />
+  <incompatibleWith />
+  <loadAfter>
+    <li>vanillaexpanded.vtexe</li>
+  </loadAfter>
+  <suggests />
+  <manifestUri>https://raw.githubusercontent.com/thakyZ/RimWorldPillarRetexure/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/thakyZ/RimWorldPillarRetexure/releases</downloadUri>
+</Manifest>
