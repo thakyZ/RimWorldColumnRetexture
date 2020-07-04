@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <Manifest>
-  <identifier>NekoBoiNick.Vanilla.ColumnRetexure</identifier>
+  <identifier>NekoBoiNick.Vanilla.ColumnRetexture</identifier>
   <version>1.0.0</version>
   <dependencies />
   <incompatibleWith />
@@ -8,6 +8,6 @@
     <li>vanillaexpanded.vtexe</li>
   </loadAfter>
   <suggests />
-  <manifestUri>https://raw.githubusercontent.com/thakyZ/RimWorldColumnRetexure/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/thakyZ/RimWorldColumnRetexure/releases</downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/thakyZ/RimWorldColumnRetexture/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/thakyZ/RimWorldColumnRetexture/releases</downloadUri>
 </Manifest>
